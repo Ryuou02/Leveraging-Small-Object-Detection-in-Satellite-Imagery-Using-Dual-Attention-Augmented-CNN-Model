@@ -1,4 +1,4 @@
-# Modified YOLO 11s with GAM+ECA attention modules
+# Leveraging-Small-Object-Detection-in-Satellite-Imagery-Using-Dual-Attention-Augmented-CNN-Model
 
 ## Problem statement
 Object detection in satellite imagery based on the SkyFusion dataset which contains vehicles within satellite imagery
