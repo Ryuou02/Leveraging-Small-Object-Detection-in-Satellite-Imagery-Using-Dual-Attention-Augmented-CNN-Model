@@ -30,7 +30,7 @@ Of the baseline YOLO models, YOLOv11s provided the highest overall performance w
 <img width="2400" height="1200" alt="image" src="https://github.com/user-attachments/assets/42f855d3-9ba8-49d7-bf9d-e47127747232" />
 
 # Publication
-Obtain the research paper (here)![https://link.springer.com/chapter/10.1007/978-3-032-15621-1_27]
+Obtain the research paper here - [https://link.springer.com/chapter/10.1007/978-3-032-15621-1_27]
 
 ### Cite this paper
 Yammanuru, L., Jose, N.T., Singh, R.P. (2026). Leveraging Small-Object Detection in Satellite Imagery Using Dual Attention-Augmented Single-Stage CNN Model. In: Zaroliagis, C., Bhandari, D., Gupta, P., Das, S. (eds) Applied Algorithms. ICAA 2026. Lecture Notes in Computer Science, vol 16423. Springer, Cham. https://doi.org/10.1007/978-3-032-15621-1_27
