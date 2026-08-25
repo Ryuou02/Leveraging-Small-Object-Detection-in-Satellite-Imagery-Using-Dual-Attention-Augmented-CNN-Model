@@ -11,7 +11,7 @@ This image of an airport show of how large an airplane can be within a satellite
 <img width="1002" height="1006" alt="image" src="https://github.com/user-attachments/assets/44f3e9fe-5915-4087-9b37-6558b6b8addb" />
 And here we see how insignificant the boats are, within the vast waterbody. In fact, there are 2 boats within this image, and the 2nd one is barely even visible to the human observer.
 
-## How to Run the Project
+# Running the project - 
 We used Google Colab to run the Python notebook `(modify_yolo_11s.ipynb)`. Copy the file `modify_yolo.zip` into the same directory. 
 ### Getting the dataset - 
 Go to the dataset at [Roboflow.com](https://app.roboflow.com/skyfusion-92vfy/prj2-bbnxz/7/export). Download the dataset meant for training YOLOv11, and get on with running the whole notebook.
